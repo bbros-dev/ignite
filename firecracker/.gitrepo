@@ -7,5 +7,5 @@
 	remote = https://github.com/bbros-dev/ignite.git
 	branch = develop
 	commit = 
-	method = merge
+	method = rebase
 	cmdver = 0.4.1
