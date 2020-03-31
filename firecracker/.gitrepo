@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/bbros-dev/ignite.git
 	branch = develop
-	commit = 
+	commit = 2197e5262fa859b3b4263421006033ad15c64baf
 	method = rebase
 	cmdver = 0.4.1
